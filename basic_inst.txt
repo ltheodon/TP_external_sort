@@ -1,6 +1,6 @@
 ./generate -s 20 -r 25 -B > fb.dat
 
-gcc test4.c -o test4
+gcc ext_sort.c -o ext_sort
 
 ./test4 fb.dat 3
 
