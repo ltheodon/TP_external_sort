@@ -1,0 +1,6 @@
+./generate -s 20 -r 25 -B > fb.dat
+
+gcc test4.c -o test4
+
+./test4 fb.dat 3
+
