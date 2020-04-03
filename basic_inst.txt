@@ -2,5 +2,5 @@
 
 gcc ext_sort.c -o ext_sort
 
-./test4 fb.dat 3
+./ext_sort fb.dat 3
 
